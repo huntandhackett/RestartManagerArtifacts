@@ -116,5 +116,6 @@ While Restart Manager's event log entries don't provide almost any helpful detai
 
 ## Other material
 
- - [Windows documentation on Restart Manager](https://learn.microsoft.com/en-us/windows/win32/rstmgr/about-restart-manager)
+ - [Windows documentation on Restart Manager](https://learn.microsoft.com/en-us/windows/win32/rstmgr/about-restart-manager).
+ - Our blog post on [Akira ransomware](https://www.huntandhackett.com/blog/technical-curiosities-of-akira-ransomware).
  - A blog by CrowdStrike: [The Windows Restart Manager: How It Works and How It Can Be Hijacked](https://www.crowdstrike.com/blog/windows-restart-manager-part-1/) and its [part 2](https://www.crowdstrike.com/blog/windows-restart-manager-part-2/).
